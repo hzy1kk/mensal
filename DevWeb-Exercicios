@@ -1,0 +1,473 @@
+Aividade
+
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Site Exemplo</title>
+</head>
+<body>
+
+    <h1>Bem-vindo ao Meu Site</h1>
+    <h2>Sobre Mim</h2>
+
+    <p>Olá! Meu nome é lucas lohan e estou aprendendo sobre programação. Neste site, você encontrará informações sobre mim e meus interesses.</p>
+    <p>Estou aprendendo HTML e CSS para criar páginas web </p>
+
+    <h2>Meus Hobbies</h2>
+    <p>Abaixo estão alguns dos meus hobbies favoritos(exemplos):</p>
+
+    <ul>
+        <li>Academia</li>
+        <li>Programação</li>
+        <li>Jogos</li>
+    </ul>
+
+    <h2>Lista de Projetos</h2>
+    <p>Aqui estão alguns projetos que estou desenvolvendo:</p>
+
+    <ol>
+        <li>Site Pessoal</li>
+        <li>Aplicativo de Tarefas</li>
+        <li>Jogo de Aventura</li>
+    </ol>
+
+    <h2>Minha Imagem Favorita</h2>
+    <img src="https://i0.statig.com.br/bancodeimagens/dk/hr/65/dkhr65w1ueftg8m3ecjm5apux.jpg" alt="Imagem de Exemplo" />
+
+</body>
+</html>
+
+Atividade 2
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exemplo de Formatação de Texto</title>
+</head>
+<body>
+
+    <h1>HTML e Formatação de Texto</h1>
+
+    <p>O HTML é a base da web, e ele nos permite criar páginas com muitos recursos interessantes!</p>
+    
+    <p>Um dos elementos mais importantes é o texto formatado, como o uso de <u>sublinhado</u> para dar ênfase.</p>
+    
+    <p>Além disso, podemos destacar partes importantes do conteúdo. Por exemplo, em uma fórmula científica, temos <strong>E = mc<sup>2</sup></strong>, onde a energia é igual à massa vezes a velocidade da luz ao quadrado.</p>
+    
+    <p>Em uma fórmula química, temos <strong>H<sub>2</sub>O</strong>, que representa a água.</p>
+    
+    <p>Às vezes, coisas simples como mostrar uma tag HTML como essa <code>&lt;p&gt;</code> podem ser complicadas ao escrever o código.</p>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML: A Linguagem da Web</title>
+</head>
+<body>
+
+    <h1>HTML: A Linguagem da Web</h1>
+
+    <p>A internet é composta por diversas tecnologias, e uma das principais é o HTML. Ele permite a estruturação das páginas web, organizando conteúdos de forma clara e acessível.</p>
+
+    <h2>O que é HTML?</h2>
+    <p>HTML significa HyperText Markup Language, que traduzido significa "Linguagem de Marcação de Hipertexto". Ele define a estrutura básica de uma página da web, utilizando elementos chamados de "tags".</p>
+
+    <h2>Principais Elementos do HTML</h2>
+    <p>O HTML possui diversos elementos que ajudam a estruturar o conteúdo de uma página. Os principais são:</p>
+
+    <h3>Títulos e Subtítulos</h3>
+    <p>Os títulos são definidos pelas tags <code>&lt;h1&gt;</code> até <code>&lt;h6&gt;</code>, onde <code>&lt;h1&gt;</code> é o título mais importante e <code>&lt;h6&gt;</code> o menos importante.</p>
+
+    <h3>Parágrafos</h3>
+    <p>O texto comum de uma página é organizado em parágrafos usando a tag <code>&lt;p&gt;</code>.</p>
+
+    <h3>Listas</h3>
+    <p>Listas são usadas para organizar informações de maneira clara e podem ser ordenadas (<code>&lt;ol&gt;</code>) ou não ordenadas (<code>&lt;ul&gt;</code>).</p>
+
+    <h3>Links e Imagens</h3>
+    <p>O HTML permite adicionar links com <code>&lt;a&gt;</code> e imagens com <code>&lt;img&gt;</code>, tornando as páginas interativas e visuais.</p>
+
+    <h2>Importância da Hierarquia dos Títulos</h2>
+    <p>A hierarquia dos títulos é fundamental para garantir a organização do conteúdo e melhorar a acessibilidade. Os motores de busca utilizam essa estrutura para entender o conteúdo da página.</p>
+
+    <h2>Conclusão</h2>
+    <p>Aprender HTML é essencial para quem deseja desenvolver para a web. Usando corretamente os títulos e parágrafos, é possível criar páginas bem organizadas e acessíveis para todos os usuários.</p>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Café Aroma do Mundo</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+        }
+        header {
+            background: #6f4c3e;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        section {
+            padding: 20px;
+        }
+        footer {
+            background: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+        h2 {
+            color: #6f4c3e;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Café Aroma do Mundo</h1>
+        <p>O melhor café da cidade, feito com amor e paixão!</p>
+    </header>
+
+    <section>
+        <h2>Nosso Menu</h2>
+        <p>Oferecemos uma variedade de bebidas e comidas deliciosas:</p>
+        <ul>
+            <li>Café Espresso</li>
+            <li>Cappuccino</li>
+            <li>Latte</li>
+            <li>Chá Gelado</li>
+            <li>Bolo de Chocolate</li>
+            <li>Sanduíche Natural</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Sobre Nós</h2>
+        <p>O Café Aroma do Mundo foi fundado em 2020 por amantes de café que desejavam criar um espaço acolhedor para a comunidade. Nossa missão é oferecer produtos de alta qualidade e um ambiente agradável para todos os nossos clientes.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Café Aroma do Mundo. Todos os direitos reservados.</p>
+        <p>Endereço: Rua das Flores, 123 - Centro, Cidade</p>
+        <p>Telefone: (11) 4002-8922</p>
+    </footer>
+
+</body>
+</html>
+
+atividade 3
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Viagem para a Europa</title>
+</head>
+<body>
+
+    <header>
+        <h1>Viagem para a Europa</h1>
+    </header>
+
+    <section>
+        <h2>Planejando a Viagem</h2>
+        <p>Viajar para a Europa é um sonho para muitas pessoas. É importante planejar bem a sua viagem para aproveitar ao máximo cada momento.</p>
+        <p>Considere os seguintes pontos:</p>
+        <ul>
+            <li>Defina o seu orçamento.</li>
+            <li>Escolha as cidades que deseja visitar.</li>
+            <li>Pesquise sobre a cultura local.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Destinos Imperdíveis</h2>
+        <p>Alguns dos destinos mais populares na Europa incluem:</p>
+        <ol>
+            <li>Paris, França</li>
+            <li>Roma, Itália</li>
+            <li>Barcelona, Espanha</li>
+            <li>Berlim, Alemanha</li>
+            <li>Londres, Reino Unido</li>
+        </ol>
+    </section>
+
+    <section>
+        <h2>Dicas de Viagem</h2>
+        <p>Para uma viagem tranquila, siga estas dicas:</p>
+        <ul>
+            <li>Leve sempre um adaptador de tomada.</li>
+            <li>Tenha um seguro de viagem.</li>
+            <li>Aprenda algumas palavras básicas no idioma local.</li>
+        </ul>
+    </section>
+
+    <hr>
+
+    <footer>
+        <p>&copy; 2023 Viagem para a Europa &bull; Todos os direitos reservados &bull; Contato: info@lohanvgs-europa.com</p>
+    </footer>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Overtourism</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        h1 {
+            text-align: center;
+            color: #333;
+            margin-top: 20px;
+        }
+
+        .container {
+            width: 90%;
+            margin: 0 auto;
+        }
+
+        .description {
+            font-size: 16px;
+            line-height: 1.5;
+            color: #555;
+            text-align: justify;
+        }
+
+        .image {
+            display: block;
+            margin: 20px auto;
+            max-width: 100%;
+            height: auto;
+        }
+
+        footer {
+            text-align: center;
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Overtourism</h1>
+        <div class="description">
+            <p>
+                O termo "overtourism" refere-se à situação em que o número de visitantes em um determinado
+                destino turístico supera a capacidade de suporte do mesmo, resultando em danos ao meio ambiente,
+                à cultura local e à qualidade de vida dos residentes.
+            </p>
+        </div>
+        <img src="https://example.com/overtourism.jpg" alt="Overtourism" class="image">
+        <footer>
+            <p>&copy; 2023 Overtourism.</p>
+        </footer>
+    </div>
+</body>
+</html>
+
+atividade 4
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Overtourism</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        h1 {
+            text-align: center;
+            color: #333;
+            margin-top: 20px;
+        }
+
+        .container {
+            width: 90%;
+            margin: 0 auto;
+        }
+
+        .description {
+            font-size: 16px;
+            line-height: 1.5;
+            color: #555;
+            text-align: justify;
+        }
+
+        .image {
+            display: block;
+            margin: 20px auto;
+            max-width: 100%;
+            height: auto;
+        }
+
+        footer {
+            text-align: center;
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Overtourism</h1>
+        <div class="description">
+            <p>
+                O termo "overtourism" refere-se à situação em que o número de visitantes em um determinado
+                destino turístico supera a capacidade de suporte do mesmo, resultando em danos ao meio ambiente,
+                à cultura local e à qualidade de vida dos residentes.
+            </p>
+        </div>
+        <img src="https://example.com/overtourism.jpg" alt="Overtourism" class="image">
+        <footer>
+            <p>&copy; 2023 Overtourism.</p>
+        </footer>
+    </div>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exemplo de Seletores Descendentes</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <section class="section1">
+            <p>Este é o primeiro parágrafo da seção 1.</p>
+            <p>Este é o segundo parágrafo da seção 1.</p>
+            <p>Este é o terceiro parágrafo da seção 1.</p>
+        </section>
+        <section class="section2">
+            <ul>
+                <li>Item 1 da lista</li>
+                <li>Item 2 da lista</li>
+                <li>Item 3 da lista</li>
+            </ul>
+        </section>
+    </div>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exemplo de Seletor de Filho Direto</title>
+    <style>
+        /* Seleciona os filhos diretos da <div> com a classe "menu" */
+        .menu > * {
+            color: red; /* Cor vermelha para todos os filhos diretos da <div> */
+        }
+
+        /* Seleciona os filhos diretos da lista <ul> */
+        .menu > ul > li {
+            color: blue; /* Cor azul para os itens de lista <li> */
+        }
+    </style>
+</head>
+<body>
+
+    <div class="menu">
+        <ul>
+            <li>Item 1</li>
+            <li>Item 2</li>
+            <li>Item 3</li>
+        </ul>
+        <p>Este é um parágrafo dentro do menu.</p>
+    </div>
+
+</body>
+</html>
+
+!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exemplo de Seletores</title>
+    <style>
+        /* Seleciona todos os parágrafos que estão depois do primeiro título <h1> */
+        h1 ~ p {
+            color: green; /* Cor verde para todos os parágrafos após <h1> */
+        }
+
+        /* Seleciona apenas o primeiro parágrafo que vem logo após o primeiro título <h2> */
+        h2 + p {
+            color: blue; /* Cor azul para o primeiro parágrafo após <h2> */
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Título 1</h1>
+    <p>Parágrafo 1</p>
+    <h2>Título 2</h2>
+    <p>Parágrafo 2</p>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exemplo de Seletores Descendentes</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <section class="section1">
+            <p>Este é o primeiro parágrafo da seção 1.</p>
+            <p>Este é o segundo parágrafo da seção 1.</p>
+            <p>Este é o terceiro parágrafo da seção 1.</p>
+        </section>
+        <section class="section2">
+            <ul>
+                <li>Item 1 da lista</li>
+                <li>Item 2 da lista</li>
+                <li>Item 3 da lista</li>
+            </ul>
+        </section>
+    </div>
+</body>
+</html>
