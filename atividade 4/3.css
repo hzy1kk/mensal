@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+    margin: 0;
+}
+
+.social-media {
+    display: flex;
+    gap: 20px; /* Espaçamento entre as imagens */
+}
+
+.social-media img {
+    width: 50px; /* Largura padrão */
+    height: 50px; /* Altura padrão */
+    transition: transform 0.2s; /* Efeito de transição */
+}
+
+.social-media img:hover {
+    transform: scale(1.1); /* Efeito de zoom ao passar o mouse */
+}
